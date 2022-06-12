@@ -1,2 +1,1 @@
-Hello, World!
-Currently I've been studing 'GIT'
+Hello World! How are you?
