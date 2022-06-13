@@ -1,3 +1,3 @@
-git is awesome!
+I love people!
 new line
 experiment with amend
