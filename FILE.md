@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 void func () {
-printf ("Hello World!"\n);
+int i;
+for (i=0;i<5;i++)
+  printf ("Hello World!"\n);
 }
+
 
 int main () {
 func();
